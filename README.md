@@ -33,13 +33,13 @@ pip install -r requirements.txt
 
 **注意没有全部爬取中间我让他停止了**
 
-![image-20240703150800368](assets/image-20240703150800368.png)
+<img src="assets/image-20240703150800368.png" alt="image-20240703150800368" style="zoom:200%;" />
 
 ### （2）b站视频和音频下载情况
 
 ![image-20240703150848106](assets/image-20240703150848106.png)
 
-![image-20240703150857284](assets/image-20240703150857284.png)
+<img src="assets/image-20240703150857284.png" alt="image-20240703150857284" style="zoom: 200%;" />
 
 程序不涉及音频和视频的合成 有需要可以用python库进行合成具体教程可以看网上查查
 
@@ -55,13 +55,13 @@ pip install -r requirements.txt
 
 本人代码里面有直接用绝对路径的字符串一定要改好后再使用（目前只找到这个在piplines文件里面）![image-20240703153834114](assets/image-20240703153834114.png)
 
-![image-20240703153308749](assets/image-20240703153308749.png)
+<img src="assets/image-20240703153308749.png" alt="image-20240703153308749" style="zoom:200%;" />
 
 ![image-20240703153333463](assets/image-20240703153333463.png)
 
 **运行结果分析**
 
-![image-20240703151919718](assets/image-20240703151919718.png)
+<img src="assets/image-20240703151919718.png" alt="image-20240703151919718" style="zoom:200%;" />
 
 **重点！！！**
 

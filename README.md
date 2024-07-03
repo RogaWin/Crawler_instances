@@ -55,8 +55,6 @@ pip install -r requirements.txt
 
 本人代码里面有直接用绝对路径的字符串一定要改好后再使用（目前只找到这个在piplines文件里面）![image-20240703153834114](assets/image-20240703153834114.png)
 
-<img src="assets/image-20240703153308749.png" alt="image-20240703153308749" style="zoom:200%;" />
-
 ![image-20240703153333463](assets/image-20240703153333463.png)
 
 **运行结果分析**
